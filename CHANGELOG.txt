@@ -1,0 +1,11 @@
+Audio Forensic Transcriber — Changelog
+
+v1.3.0
+- Integração do módulo de importação e organização de conversas exportadas do WhatsApp.
+- Exportação de conversas em PDF e imagens PNG/JPG.
+- Identificação do desenvolvedor: ANDERSON DIAS.
+- Inclusão do e-mail de suporte: andersondiasperitoforense@gmail.com.
+- Inclusão da tela Ajuda > Sobre o aplicativo.
+- Ícone personalizado do aplicativo e configuração de ícone no build Windows.
+- Manual de instalação em Markdown e PDF.
+- Script de instalador Windows para Inno Setup 6.
